@@ -1,0 +1,54 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731722962948 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA2L-gAAAZMyu2iPAAAAAQAAAAEAAAAAAAAAAPb32XZhVCIs0cPFzP_uk9RZVCQStNjYGWwr-JcPPhX0
+
+TUNNELS
+male-spy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731722966075 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA2L-gAAAZMyu2iPAAAAAQAAAAEAAAAAAAAAAPb32XZhVCIs0cPFzP_uk9RZVCQStNjYGWwr-JcPPhX0
+
+TUNNELS
+male-spy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731722969150 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA2L-gAAAZMyu2iPAAAAAQAAAAEAAAAAAAAAAPb32XZhVCIs0cPFzP_uk9RZVCQStNjYGWwr-JcPPhX0
+
+TUNNELS
+male-spy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731722972218 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA2L-gAAAZMyu2iPAAAAAQAAAAEAAAAAAAAAAPb32XZhVCIs0cPFzP_uk9RZVCQStNjYGWwr-JcPPhX0
+
+TUNNELS
+male-spy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731722975283 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA2L-gAAAZMyu2iPAAAAAQAAAAEAAAAAAAAAAPb32XZhVCIs0cPFzP_uk9RZVCQStNjYGWwr-JcPPhX0
+
+TUNNELS
+male-spy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731722978350 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA2L-gAAAZMyu6S4AAAAAQAAAAEAAAAAAAAAAGubd-Wy3vOfi2need3yuV3q4AO77OT9m1Wymmke0D6r
+
+TUNNELS
+male-spy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731722981481 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA2L-gAAAZMyu6S4AAAAAQAAAAEAAAAAAAAAAGubd-Wy3vOfi2need3yuV3q4AO77OT9m1Wymmke0D6r
+
+TUNNELS
+male-spy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731722984551 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA2L-gAAAZMyu6S4AAAAAQAAAAEAAAAAAAAAAGubd-Wy3vOfi2need3yuV3q4AO77OT9m1Wymmke0D6r
+
+TUNNELS
+male-spy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
